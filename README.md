@@ -50,15 +50,18 @@ Governança não é burocracia.
 
 ---
 
-📫 Contato
+📫 Vamos conversar?
+
+E-mail: (opcional)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin)  
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511971619274)   
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BritoLeidi)  
+E-mail: leidianebryto@yahoo.com.br
 
 ## 📂 Portfólio  
 
-🔗 [Acesse meu portfólio](https://drive.google.com/file/d/1QxT_5MvBQ68qNxVEB-iI5HQIrau5dPTH/view?usp=drive_link)  
+🔗 [Acesse meu portfólio](https://drive.google.com/file/d/1t2uzUq7iikSHzW3Ots2SvmquBk2XFNxW/view?usp=drive_link)  
 
 📄 [Baixar curriculo em PDF]((https://drive.google.com/file/d/1R9kIEoIkNPvTuc-ZabQQuWQcRKOjiIBK/view?usp=drive_link))
 
